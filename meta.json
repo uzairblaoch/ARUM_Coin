@@ -1,0 +1,17 @@
+{
+    "name": "ARUM Coin",
+    "symbol": "ARUM",
+    "description": "The Studious Crabs are smart and productive crabs.",
+      "image": "https://raw.githubusercontent.com/uzairblaoch/ARUM_Coin/main/ARUM.png",
+      "attributes": [
+        
+      ],
+      "properties": {
+        "files": [
+          {
+            "uri": "https://raw.githubusercontent.com/uzairblaoch/ARUM_Coin/main/ARUM.png",
+            "type": "image/png"
+          }
+        ]
+      }
+    }
