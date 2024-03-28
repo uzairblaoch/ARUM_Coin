@@ -2,14 +2,14 @@
     "name": "ARUM Coin",
     "symbol": "ARUM",
     "description": "Fun project of 4 friends",
-      "image": "https://raw.githubusercontent.com/uzairblaoch/ARUM_Coin/main/ARUM.png",
+      "image": "https://raw.githubusercontent.com/uzairblaoch/ARUM_Coin/main/icon.png",
       "attributes": [
         
       ],
       "properties": {
         "files": [
           {
-            "uri": "https://raw.githubusercontent.com/uzairblaoch/ARUM_Coin/main/ARUM.png",
+            "uri": "https://raw.githubusercontent.com/uzairblaoch/ARUM_Coin/main/icon.png",
             "type": "image/png"
           }
         ]
